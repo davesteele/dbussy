@@ -1,0 +1,5 @@
+dbussy (1.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #888289)
+
+ -- David Steele <steele@debian.org>  Fri, 11 Jan 2019 15:22:12 -0500
